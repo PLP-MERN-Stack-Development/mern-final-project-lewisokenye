@@ -1,0 +1,30 @@
+/* BugList.css */
+ul {
+  list-style-type: none;
+  padding: 0;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+li {
+  padding: 12px 15px;
+  margin-bottom: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+em {
+  font-style: italic;
+  color: #555;
+}
+
+p {
+  text-align: center;
+  font-size: 1rem;
+  color: #777;
+  margin-top: 20px;
+}
